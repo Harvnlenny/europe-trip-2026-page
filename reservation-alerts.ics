@@ -10,10 +10,23 @@ DTSTAMP:20260721T120000Z
 DTSTART:20260725T130000Z
 DTEND:20260725T133000Z
 SUMMARY:🎟️ Book the already-open Europe reservations
-DESCRIPTION:These are bookable NOW — knock them out:\n• Book of Kells timed slot ~2 PM Thu Nov 12 (visittrinity.ie)\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)
+DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n(Book of Kells Nov dates aren't open yet — separate reminder on Sep 5.)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Book Europe reservations that are already open
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resv-bookofkells-20260905@harvey-europe-2026
+DTSTAMP:20260721T120000Z
+DTSTART:20260905T130000Z
+DTEND:20260905T133000Z
+SUMMARY:🎟️ Check if Book of Kells Nov tickets have opened
+DESCRIPTION:As of Jul 21 the booking schedule only reached Sept 30, so Nov 12 wasn't loaded yet. Check bookofkells-tickets.visittrinity.ie for a ~2 PM Thu Nov 12 slot (self-guided €26, 2 adults). If not open yet, check again every few days.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Check Book of Kells Nov 12 tickets
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
