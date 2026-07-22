@@ -10,7 +10,7 @@ DTSTAMP:20260721T120000Z
 DTSTART:20260725T130000Z
 DTEND:20260725T133000Z
 SUMMARY:🎟️ Book the already-open Europe reservations
-DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n(Book of Kells Nov dates aren't open yet — separate reminder on Sep 5.)
+DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey timed slot ~12:15 Mon Nov 16 (westminster-abbey.org)\n• London Eye ~3:30 PM sunset slot Mon Nov 16 (londoneye.com)\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n(If any Nov date isn't open yet, check back. Book of Kells Nov dates: separate reminder Sep 5.)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Book Europe reservations that are already open
