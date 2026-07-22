@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harvey Europe Trip Nov 2026//Reservation Alerts//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Europe Trip — Reservation Alerts
+BEGIN:VEVENT
+UID:resv-booknow-20260725@harvey-europe-2026
+DTSTAMP:20260721T120000Z
+DTSTART:20260725T130000Z
+DTEND:20260725T133000Z
+SUMMARY:🎟️ Book the already-open Europe reservations
+DESCRIPTION:These are bookable NOW — knock them out:\n• Book of Kells timed slot ~2 PM Thu Nov 12 (visittrinity.ie)\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Book Europe reservations that are already open
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resv-windingstair-20260914@harvey-europe-2026
+DTSTAMP:20260721T120000Z
+DTSTART:20260914T130000Z
+DTEND:20260914T133000Z
+SUMMARY:🎟️ Winding Stair booking window opens (Dublin, Sat Nov 14 dinner)
+DESCRIPTION:Reservations open ~2 months ahead. Book a weekend window seat over the Liffey — small & popular. winding-stair.com / OpenTable.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Book The Winding Stair (farewell dinner)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resv-kilmainham-20261015@harvey-europe-2026
+DTSTAMP:20260721T120000Z
+DTSTART:20261015T230000Z
+DTEND:20261015T233000Z
+SUMMARY:🎟️ Kilmainham Gaol tickets OPEN NOW — book immediately (sells out)
+DESCRIPTION:Tickets release 28 days before Fri Nov 13 at midnight Irish time = ~7 PM Tampa time tonight. Guided tour ~11 AM slot for 2. heritageireland.ie / kilmainhamgaolmuseum.ie. SELLS OUT FAST.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kilmainham Gaol tickets open now — book!
+TRIGGER:PT0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kilmainham Gaol tickets open TOMORROW ~7 PM — be ready
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resv-finalreview-20261106@harvey-europe-2026
+DTSTAMP:20260721T120000Z
+DTSTART:20261106T140000Z
+DTEND:20261106T143000Z
+SUMMARY:🧭 Europe trip — 2-weeks-out final review
+DESCRIPTION:Playbook checklist: re-verify every venue's hours/closed-days/closures for our dates; confirm all reservations & timed tickets are booked + saved offline; swap weather averages for the live forecast; buy insurance if not done; install eSIM; download offline maps.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Europe trip final review — verify openings & bookings
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
