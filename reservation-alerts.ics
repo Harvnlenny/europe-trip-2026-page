@@ -10,7 +10,7 @@ DTSTAMP:20260721T120000Z
 DTSTART:20260725T130000Z
 DTEND:20260725T133000Z
 SUMMARY:🎟️ Book the already-open Europe reservations
-DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey timed slot ~12:15 Mon Nov 16 (westminster-abbey.org)\n• London Eye ~3:30 PM sunset slot Mon Nov 16 (londoneye.com)\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Ciao Bella dinner Tue Nov 17 (optional — reserve or walk-in)\n• Harry Potter & the Cursed Child (one-part) Tue Nov 17 eve — TENTATIVE: Palace Theatre, book if you want the HP double-header (uk.harrypottertheplay.com)\n• Tower of London timed ~10 AM Wed Nov 18 (hrp.org.uk)\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• Phantom of the Opera Wed Nov 18 7:30 PM — TENTATIVE: confirm the show, then book good seats (lwtheatres.co.uk)\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n(If any Nov date isn't open yet, check back. Book of Kells Nov dates: separate reminder Sep 5.)
+DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 (reserve a table)\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey timed slot ~12:15 Mon Nov 16 (westminster-abbey.org)\n• London Eye ~3:30 PM sunset slot Mon Nov 16 (londoneye.com)\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Ciao Bella dinner Tue Nov 17 (optional — reserve or walk-in)\n• Harry Potter & the Cursed Child (one-part) Tue Nov 17 eve — TENTATIVE: Palace Theatre, book if you want the HP double-header (uk.harrypottertheplay.com)\n• Tower of London timed ~10 AM Wed Nov 18 (hrp.org.uk)\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• Phantom of the Opera Wed Nov 18 7:30 PM — TENTATIVE: confirm the show, then book good seats (lwtheatres.co.uk)\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• Sainte-Chapelle timed ticket ~12:15 Sun Nov 22 (sainte-chapelle.fr)\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n(If any Nov date isn't open yet, check back. Book of Kells Nov dates: separate reminder Sep 5.)
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Book Europe reservations that are already open
@@ -40,6 +40,19 @@ DESCRIPTION:Louvre releases timed tickets on a ~90-day window (≈today for Nov 
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Book Louvre Sat Nov 21 morning slot
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resv-eiffel-20260923@harvey-europe-2026
+DTSTAMP:20260721T120000Z
+DTSTART:20260923T130000Z
+DTEND:20260923T133000Z
+SUMMARY:🎟️ Eiffel Tower summit tickets open (~60 days out) — book Sun Nov 22 AM
+DESCRIPTION:Eiffel summit tickets release ~60 days ahead & sell out. Book a MORNING lift-to-summit slot at toureiffel.paris for Sun Nov 22. Verify the exact release date/time.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Book Eiffel summit Sun Nov 22 morning
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
