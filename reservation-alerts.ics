@@ -6,87 +6,100 @@ METHOD:PUBLISH
 X-WR-CALNAME:Europe Trip — Reservation Alerts
 BEGIN:VEVENT
 UID:resv-aaschedulechange-20260728@harvey-europe-2026
-DTSTAMP:20260727T230000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20260728T130000Z
 DTEND:20260728T133000Z
+SEQUENCE:2
+RRULE:FREQ=DAILY;INTERVAL=3;UNTIL=20260901T130000Z
 SUMMARY:🟡 Optional: ask AA for an earlier TPA-PHL flight (free)
-DESCRIPTION:AA changed the outbound TPA-PHL leg on Nov 11: now AA 2412, 5:50 PM - 8:25 PM (was AA 2528, 2:20 - 4:52 PM). That cuts the connection to AA 722 PHL-DUB (dep 9:10 PM) from 4h 18m to 45 min.\n\nTHIS IS A LEGAL CONNECTION. AA's published minimum at PHL is ~45 min, and AA built it on purpose. Bags are tagged through to Dublin and transferred airside by AA's own crew - no customs, no re-check on the way out. The bags are not the worry.\n\nTHE REAL ISSUE IS SLACK: there is none. If AA 2412 runs even 20 min late, the connection is gone - and AA 722 is ONCE DAILY, so a miss costs a full day of a 3-night Dublin stay plus the Book of Kells slot. (If that happens it's AA's delay, so they owe rebooking + a hotel.)\n\nTHE FREE OPTION: because this was an involuntary schedule change, you can ask to be moved to an EARLIER TPA-PHL flight at no charge.\n\nWHAT TO ASK FOR (AA flies TPA-PHL ~5x daily). Current-season pattern, so times may shift slightly for November - but ask for the late-afternoon departure:\n\n*** BEST: the ~4:30 PM departure (AA 2838 in the current schedule), arriving PHL ~7:14 PM = a ~2 HOUR connection. Still an afternoon start, real buffer restored. THIS IS THE ASK. ***\n\n- Backup: the ~12:33 PM departure (AA 2822), arrives ~3:17 PM = ~5h 53m. Closest to your original layover, but a long sit at PHL.\n- Avoid: the ~10:50 AM (7h 40m) and ~6:01 AM (12h 31m) - too long.\n- Note the ~5:56 PM departure is NOT better - it lands 8:40 PM, a 30-min connection, worse than what you have.\n\nYour call. Keeping the 45-min is defensible; changing it is free.\n\nRecord locator: APNJVO. AA reservations: 800-433-7300 (24/7).\n\n(Also changed, harmlessly: return CLT-TPA AA 2022 now lands 10:01 PM instead of 9:59 PM.)
+DESCRIPTION:AA changed the outbound TPA-PHL leg on Nov 11: now AA 2412, 5:50 PM - 8:25 PM (was AA 2528, 2:20 - 4:52 PM). That cuts the connection to AA 722 PHL-DUB (dep 9:10 PM) from 4h 18m to 45 min.\n\nTHIS IS A LEGAL CONNECTION. AA's published minimum at PHL is ~45 min, and AA built it on purpose. Bags are tagged through to Dublin and transferred airside by AA's own crew - no customs, no re-check on the way out. The bags are not the worry.\n\nTHE REAL ISSUE IS SLACK: there is none. If AA 2412 runs even 20 min late, the connection is gone - and AA 722 is ONCE DAILY, so a miss costs a full day of a 3-night Dublin stay plus the Book of Kells slot. (If that happens it's AA's delay, so they owe rebooking + a hotel.)\n\nTHE FREE OPTION: because this was an involuntary schedule change, you can ask to be moved to an EARLIER TPA-PHL flight at no charge.\n\nWHAT TO ASK FOR (AA flies TPA-PHL ~5x daily). Current-season pattern, so times may shift slightly for November - but ask for the late-afternoon departure:\n\n*** BEST: the ~4:30 PM departure (AA 2838 in the current schedule), arriving PHL ~7:14 PM = a ~2 HOUR connection. Still an afternoon start, real buffer restored. THIS IS THE ASK. ***\n\n- Backup: the ~12:33 PM departure (AA 2822), arrives ~3:17 PM = ~5h 53m. Closest to your original layover, but a long sit at PHL.\n- Avoid: the ~10:50 AM (7h 40m) and ~6:01 AM (12h 31m) - too long.\n- Note the ~5:56 PM departure is NOT better - it lands 8:40 PM, a 30-min connection, worse than what you have.\n\nYour call. Keeping the 45-min is defensible; changing it is free.\n\nRecord locator: APNJVO. AA reservations: 800-433-7300 (24/7).\n\n(Also changed, harmlessly: return CLT-TPA AA 2022 now lands 10:01 PM instead of 9:59 PM.)\n\n--\nTHIS REMINDER REPEATS EVERY 3 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Call American — fix the 45-min PHL connection (free, their change)
+DESCRIPTION:Call American — fix the 45-min PHL connection (free, their change)  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-booknow-20260725@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20260725T130000Z
 DTEND:20260725T133000Z
+SEQUENCE:2
+RRULE:FREQ=WEEKLY;UNTIL=20261026T130000Z
 SUMMARY:🎟️ Book the already-open Europe reservations
-DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 — book 7:30 PM so dinner runs into the ~9:30 trad session\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey timed slot ~12:15 Mon Nov 16 (westminster-abbey.org)\n• London Eye ~3:30 PM sunset slot Mon Nov 16 (londoneye.com)\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Ciao Bella dinner Tue Nov 17 (optional — reserve or walk-in)\n• Harry Potter & the Cursed Child (one-part) Tue Nov 17 eve — TENTATIVE: Palace Theatre, book if you want the HP double-header (uk.harrypottertheplay.com)\n• Tower of London timed ~10 AM Wed Nov 18 (hrp.org.uk)\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• Phantom of the Opera Wed Nov 18 7:30 PM — TENTATIVE: confirm the show, then book good seats (lwtheatres.co.uk)\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• Sainte-Chapelle timed ticket ~12:15 Sun Nov 22 (sainte-chapelle.fr)\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n• Musée d'Orsay timed ticket ~9:30 Tue Nov 24 (musee-orsay.fr)\n• La Bonne Franquette (last Paris dinner) Tue Nov 24 — reserve (or Bouillon Pigalle walk-in)\n(If any Nov date isn't open yet, check back. Book of Kells Nov dates: separate reminder Sep 5.)
+DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 — book 7:30 PM so dinner runs into the ~9:30 trad session\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey timed slot ~12:15 Mon Nov 16 (westminster-abbey.org)\n• London Eye ~3:30 PM sunset slot Mon Nov 16 (londoneye.com)\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Ciao Bella dinner Tue Nov 17 (optional — reserve or walk-in)\n• Harry Potter & the Cursed Child (one-part) Tue Nov 17 eve — TENTATIVE: Palace Theatre, book if you want the HP double-header (uk.harrypottertheplay.com)\n• Tower of London timed ~10 AM Wed Nov 18 (hrp.org.uk)\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• Phantom of the Opera Wed Nov 18 7:30 PM — TENTATIVE: confirm the show, then book good seats (lwtheatres.co.uk)\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• Sainte-Chapelle timed ticket ~12:15 Sun Nov 22 (sainte-chapelle.fr)\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n• Musée d'Orsay timed ticket ~9:30 Tue Nov 24 (musee-orsay.fr)\n• La Bonne Franquette (last Paris dinner) Tue Nov 24 — reserve (or Bouillon Pigalle walk-in)\n(If any Nov date isn't open yet, check back. Book of Kells Nov dates: separate reminder Sep 5.)\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Book Europe reservations that are already open
+DESCRIPTION:Book Europe reservations that are already open  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-bookofkells-20260905@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20260905T130000Z
 DTEND:20260905T133000Z
+SEQUENCE:2
+RRULE:FREQ=DAILY;INTERVAL=3;UNTIL=20261015T130000Z
 SUMMARY:🎟️ Check if Book of Kells Nov tickets have opened
-DESCRIPTION:As of Jul 21 the booking schedule only reached Sept 30, so Nov 12 wasn't loaded yet. Check bookofkells-tickets.visittrinity.ie for a ~2 PM Thu Nov 12 slot (self-guided €26, 2 adults). If not open yet, check again every few days.
+DESCRIPTION:As of Jul 21 the booking schedule only reached Sept 30, so Nov 12 wasn't loaded yet. Check bookofkells-tickets.visittrinity.ie for a ~2 PM Thu Nov 12 slot (self-guided €26, 2 adults). If not open yet, check again every few days.\n\n--\nTHIS REMINDER REPEATS EVERY 3 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Check Book of Kells Nov 12 tickets
+DESCRIPTION:Check Book of Kells Nov 12 tickets  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-louvre-20260823@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20260823T130000Z
 DTEND:20260823T133000Z
+SEQUENCE:2
+RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20260906T130000Z
 SUMMARY:🎟️ Louvre timed tickets open (~90 days out) — book Sat Nov 21 AM
-DESCRIPTION:Louvre releases timed tickets on a ~90-day window (≈today for Nov 21). Book a MORNING slot on louvre.fr for Sat Nov 21 (self-guided, ~€22–32 pp — verify non-EU price). Closed Tue, so Sat is the day; go early to beat weekend crowds.
+DESCRIPTION:Louvre releases timed tickets on a ~90-day window (≈today for Nov 21). Book a MORNING slot on louvre.fr for Sat Nov 21 (self-guided, ~€22–32 pp — verify non-EU price). Closed Tue, so Sat is the day; go early to beat weekend crowds.\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Book Louvre Sat Nov 21 morning slot
+DESCRIPTION:Book Louvre Sat Nov 21 morning slot  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-eiffel-20260923@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20260923T130000Z
 DTEND:20260923T133000Z
+SEQUENCE:2
+RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261007T130000Z
 SUMMARY:🎟️ Eiffel Tower summit tickets open (~60 days out) — book Sun Nov 22 AM
-DESCRIPTION:Eiffel summit tickets release ~60 days ahead & sell out. Book a MORNING lift-to-summit slot at toureiffel.paris for Sun Nov 22. Verify the exact release date/time.
+DESCRIPTION:Eiffel summit tickets release ~60 days ahead & sell out. Book a MORNING lift-to-summit slot at toureiffel.paris for Sun Nov 22. Verify the exact release date/time.\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Book Eiffel summit Sun Nov 22 morning
+DESCRIPTION:Book Eiffel summit Sun Nov 22 morning  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-windingstair-20260914@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20260914T130000Z
 DTEND:20260914T133000Z
+SEQUENCE:2
+RRULE:FREQ=WEEKLY;UNTIL=20261026T130000Z
 SUMMARY:🎟️ Winding Stair booking window opens (Dublin, Sat Nov 14 dinner)
-DESCRIPTION:Reservations open ~2 months ahead. Book a weekend window seat over the Liffey — small & popular. winding-stair.com / OpenTable. If Sat Nov 14 isn't loaded yet, their window may be 30 days instead — check back ~Oct 15.
+DESCRIPTION:Reservations open ~2 months ahead. Book a weekend window seat over the Liffey — small & popular. winding-stair.com / OpenTable. If Sat Nov 14 isn't loaded yet, their window may be 30 days instead — check back ~Oct 15.\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Book The Winding Stair (farewell dinner)
+DESCRIPTION:Book The Winding Stair (farewell dinner)  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-kilmainham-20261015@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20261015T230000Z
 DTEND:20261015T233000Z
+SEQUENCE:2
 SUMMARY:🎟️ Kilmainham Gaol tickets OPEN NOW — book immediately (sells out)
 DESCRIPTION:Tickets release 28 days before Fri Nov 13 at midnight Irish time = ~7 PM Tampa time tonight. Guided tour ~11 AM slot for 2. heritageireland.ie / kilmainhamgaolmuseum.ie. SELLS OUT FAST.\n\nIf you miss it: same-day CANCELLATION tickets are released online between 9:15-9:30 AM Irish time each day — a genuine second chance while in Dublin.\n\nOn the day: arrive 15 min before your slot.
 BEGIN:VALARM
@@ -102,14 +115,31 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:resv-finalreview-20261106@harvey-europe-2026
-DTSTAMP:20260721T120000Z
+DTSTAMP:20260729T120000Z
 DTSTART:20261106T140000Z
 DTEND:20261106T143000Z
+SEQUENCE:2
+RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261110T140000Z
 SUMMARY:🧭 Europe trip — 2-weeks-out final review
-DESCRIPTION:Playbook checklist: re-verify every venue's hours/closed-days/closures for our dates; confirm all reservations & timed tickets are booked + saved offline; swap weather averages for the live forecast; buy insurance if not done; install eSIM; download offline maps.
+DESCRIPTION:Playbook checklist: re-verify every venue's hours/closed-days/closures for our dates; confirm all reservations & timed tickets are booked + saved offline; swap weather averages for the live forecast; buy insurance if not done; install eSIM; download offline maps.\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Europe trip final review — verify openings & bookings
+DESCRIPTION:Europe trip final review — verify openings & bookings  (repeats until done)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:resv-kilmainhamchase-20261016@harvey-europe-2026
+DTSTAMP:20260729T120000Z
+DTSTART:20261016T131500Z
+DTEND:20261016T133000Z
+SEQUENCE:1
+RRULE:FREQ=DAILY;UNTIL=20261108T131500Z
+SUMMARY:🎟️ Kilmainham not booked yet? Cancellation tickets drop now
+DESCRIPTION:Only relevant if you did NOT get Fri Nov 13 tickets at the midnight release.\n\nSame-day CANCELLATION tickets are released online between 9:15-9:30 AM Irish time EVERY day - that is 4:15-4:30 AM Tampa time, so realistically check the site each morning and watch for a Nov 13 slot appearing.\n\nheritageireland.ie / kilmainhamgaolmuseum.ie\n\n--\nTHIS REMINDER REPEATS DAILY. Subscribed calendars are read-only, so iOS won't offer Snooze -- dismiss it and it returns. Once Kilmainham is booked, tell Claude and this disappears from the feed.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kilmainham still unbooked? Check for cancellation tickets  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
