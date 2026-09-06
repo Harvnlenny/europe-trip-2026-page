@@ -10,12 +10,12 @@ DTSTAMP:20260729T120000Z
 DTSTART:20260725T130000Z
 DTEND:20260725T133000Z
 SEQUENCE:2
-RRULE:FREQ=WEEKLY;UNTIL=20261026T130000Z
-SUMMARY:🎟️ Book the already-open Europe reservations
-DESCRIPTION:These are bookable NOW — knock them out:\n• The Brazen Head dinner Fri Nov 13 — book 7:30 PM so dinner runs into the ~9:30 trad session\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey ~12:15 Mon Nov 16 — NOV NOT LOADED YET (only to Oct 31 as of Sep 6). Separate reminder starts Sep 20.\n• [DONE] London Eye — booked, Mon 16 Nov 3:30 PM, Fast Track x2, order 123678423\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Ciao Bella dinner Tue Nov 17 (optional — reserve or walk-in)\n• Harry Potter & the Cursed Child (one-part) Tue Nov 17 eve — CONFIRMED, book it: Palace Theatre (uk.harrypottertheplay.com). Note the curtain time; it sets the Ciao Bella dinner.\n• [DONE] Tower of London — booked, Wed 18 Nov (all-day ticket), order DVOMY243MYHM2\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• [DONE] Phantom of the Opera — booked, Wed 18 Nov 7:30 PM, Royal Circle A19+A20, GBP 370\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• Sainte-Chapelle ~12:15 Sun Nov 22 — NOV NOT LOADED YET (only to Oct 31 as of Sep 6). Separate reminder starts Sep 25.\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n• [DONE] Musee d'Orsay — booked, Tue 24 Nov 9:30 AM, transaction 200696183\n• La Bonne Franquette (last Paris dinner) Tue Nov 24 — reserve (or Bouillon Pigalle walk-in)\n(If any Nov date isn't open yet, check back.)\n\nDONE so far: Book of Kells - Louvre - Tower of London - London Eye - Musee d'Orsay - PHANTOM. Still to do: Cursed Child (Tue 17 Nov) and the restaurants below.\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
+RRULE:FREQ=WEEKLY;UNTIL=20261108T130000Z
+SUMMARY:🍽️ Book the Europe restaurant tables
+DESCRIPTION:Every timed ticket and both shows are now BOOKED. What's left is restaurants:\n• The Brazen Head dinner Fri Nov 13 — book 7:30 PM so dinner runs into the ~9:30 trad session\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey ~12:15 Mon Nov 16 — NOV NOT LOADED YET (only to Oct 31 as of Sep 6). Separate reminder starts Sep 20.\n• [DONE] London Eye — booked, Mon 16 Nov 3:30 PM, Fast Track x2, order 123678423\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Tue Nov 17 dinner: ROYAL CHINA CHINATOWN, 30 Gerrard St -- book 5:30, say "7 o'clock show at the Palace". WOULDN'T TAKE NOV 17 ON SEP 6 (too far out), so retry from late Sept. !! CONFIRM THE ADDRESS IS 30 GERRARD STREET -- their booking widget defaults to Harrow-on-the-Hill, 40 min away in Zone 5. Direct line +44 20 7734 1388. Also ask if dim sum is still served at 5:30. If it never opens up, just walk in -- Chinatown on a Nov Tuesday is fine, and it's 4 min from your seats.\n• [DONE] Cursed Child — booked, Tue 17 Nov 7:00 PM, Palace Theatre, Dress Circle A19+A20, GBP 250\n• [DONE] Tower of London — booked, Wed 18 Nov (all-day ticket), order DVOMY243MYHM2\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• [DONE] Phantom of the Opera — booked, Wed 18 Nov 7:30 PM, Royal Circle A19+A20, GBP 370\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• Sainte-Chapelle ~12:15 Sun Nov 22 — NOV NOT LOADED YET (only to Oct 31 as of Sep 6). Separate reminder starts Sep 25.\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n• [DONE] Musee d'Orsay — booked, Tue 24 Nov 9:30 AM, transaction 200696183\n• La Bonne Franquette (last Paris dinner) Tue Nov 24 — reserve (or Bouillon Pigalle walk-in)\nMOST OF THESE WILL BE TOO FAR OUT UNTIL OCTOBER -- London/Paris restaurants typically open 30-60 days ahead. Confirmed on Sep 6: Royal China Chinatown would not take Nov 17. So work this list again in early October; nothing here is lost by waiting, and every one of them has a walk-in fallback.\n\nDONE so far: Book of Kells - Louvre - Tower of London - London Eye - Musee d'Orsay - Phantom - Cursed Child. ALL TIMED TICKETS AND BOTH SHOWS ARE BOOKED. What's left here is restaurants only.\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Book Europe reservations that are already open  (repeats until done)
+DESCRIPTION:Book the Europe restaurant tables  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
@@ -50,25 +50,6 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:resv-kilmainham-20261015@harvey-europe-2026
-DTSTAMP:20260729T120000Z
-DTSTART:20261015T230000Z
-DTEND:20261015T233000Z
-SEQUENCE:2
-SUMMARY:🎟️ Kilmainham Gaol tickets OPEN NOW — book immediately (sells out)
-DESCRIPTION:Tickets release 28 days before Fri Nov 13 at midnight Irish time = ~7 PM Tampa time tonight. Guided tour ~11 AM slot for 2. heritageireland.ie / kilmainhamgaolmuseum.ie. SELLS OUT FAST.\n\nIf you miss it: same-day CANCELLATION tickets are released online between 9:15-9:30 AM Irish time each day — a genuine second chance while in Dublin.\n\nOn the day: arrive 15 min before your slot.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kilmainham Gaol tickets open now — book!
-TRIGGER:PT0S
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kilmainham Gaol tickets open TOMORROW ~7 PM — be ready
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:resv-finalreview-20261106@harvey-europe-2026
 DTSTAMP:20260729T120000Z
 DTSTART:20261106T140000Z
@@ -80,21 +61,6 @@ DESCRIPTION:Playbook checklist: re-verify every venue's hours/closed-days/closur
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Europe trip final review — verify openings & bookings  (repeats until done)
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:resv-kilmainhamchase-20261016@harvey-europe-2026
-DTSTAMP:20260729T120000Z
-DTSTART:20261016T131500Z
-DTEND:20261016T133000Z
-SEQUENCE:1
-RRULE:FREQ=DAILY;UNTIL=20261108T131500Z
-SUMMARY:🎟️ Kilmainham not booked yet? Cancellation tickets drop now
-DESCRIPTION:Only relevant if you did NOT get Fri Nov 13 tickets at the midnight release.\n\nSame-day CANCELLATION tickets are released online between 9:15-9:30 AM Irish time EVERY day - that is 4:15-4:30 AM Tampa time, so realistically check the site each morning and watch for a Nov 13 slot appearing.\n\nheritageireland.ie / kilmainhamgaolmuseum.ie\n\n--\nTHIS REMINDER REPEATS DAILY. Subscribed calendars are read-only, so iOS won't offer Snooze -- dismiss it and it returns. Once Kilmainham is booked, tell Claude and this disappears from the feed.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kilmainham still unbooked? Check for cancellation tickets  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
