@@ -9,43 +9,13 @@ UID:resv-booknow-20260725@harvey-europe-2026
 DTSTAMP:20260729T120000Z
 DTSTART:20260725T130000Z
 DTEND:20260725T133000Z
-SEQUENCE:2
+SEQUENCE:3
 RRULE:FREQ=WEEKLY;UNTIL=20261108T130000Z
 SUMMARY:🍽️ Book the Europe restaurant tables
-DESCRIPTION:Every timed ticket and both shows are now BOOKED. What's left is restaurants:\n• The Brazen Head dinner Fri Nov 13 — book 7:30 PM so dinner runs into the ~9:30 trad session\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• Westminster Abbey ~12:15 Mon Nov 16 — NOV NOT LOADED YET (only to Oct 31 as of Sep 6). Separate reminder starts Sep 20.\n• [DONE] London Eye — booked, Mon 16 Nov 3:30 PM, Fast Track x2, order 123678423\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• Tue Nov 17 dinner: ROYAL CHINA CHINATOWN, 30 Gerrard St -- book 5:30, say "7 o'clock show at the Palace". WOULDN'T TAKE NOV 17 ON SEP 6 (too far out), so retry from late Sept. !! CONFIRM THE ADDRESS IS 30 GERRARD STREET -- their booking widget defaults to Harrow-on-the-Hill, 40 min away in Zone 5. Direct line +44 20 7734 1388. Also ask if dim sum is still served at 5:30. If it never opens up, just walk in -- Chinatown on a Nov Tuesday is fine, and it's 4 min from your seats.\n• [DONE] Cursed Child — booked, Tue 17 Nov 7:00 PM, Palace Theatre, Dress Circle A19+A20, GBP 250\n• [DONE] Tower of London — booked, Wed 18 Nov (all-day ticket), order DVOMY243MYHM2\n• Café Murano pre-theatre dinner Wed Nov 18 ~5:45 (reserve)\n• [DONE] Phantom of the Opera — booked, Wed 18 Nov 7:30 PM, Royal Circle A19+A20, GBP 370\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• Sainte-Chapelle ~12:15 Sun Nov 22 — NOV NOT LOADED YET (only to Oct 31 as of Sep 6). Separate reminder starts Sep 25.\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n• [DONE] Musee d'Orsay — booked, Tue 24 Nov 9:30 AM, transaction 200696183\n• La Bonne Franquette (last Paris dinner) Tue Nov 24 — reserve (or Bouillon Pigalle walk-in)\nMOST OF THESE WILL BE TOO FAR OUT UNTIL OCTOBER -- London/Paris restaurants typically open 30-60 days ahead. Confirmed on Sep 6: Royal China Chinatown would not take Nov 17. So work this list again in early October; nothing here is lost by waiting, and every one of them has a walk-in fallback.\n\nDONE so far: Book of Kells - Louvre - Tower of London - London Eye - Musee d'Orsay - Phantom - Cursed Child. ALL TIMED TICKETS AND BOTH SHOWS ARE BOOKED. What's left here is restaurants only.\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
+DESCRIPTION:Every timed ticket and both shows are now BOOKED. What's left is restaurants:\n• The Brazen Head dinner Fri Nov 13 — book 7:30 PM so dinner runs into the ~9:30 trad session\n• The Delaunay dinner Sun Nov 15 (thedelaunay.com)\n• [DONE] Westminster Abbey Mon Nov 16, entry 12:30-1:00 — booked 24 Oct, transaction 1317740. (was: separate reminder starts Sep 20.\n• [DONE] London Eye — booked, Mon 16 Nov 3:30 PM, Fast Track x2, order 123678423\n• Gillray's dinner Mon Nov 16 (reserve a river-view table)\n• [DONE] Tue Nov 17 dinner: THE ORIGINAL IVY, 1-5 West St, 5:30 -- booked 24 Oct, OpenTable #2110431450 (replaced Royal China). Tell the server about the 7pm show. Direct line +44 20 7734 1388. Also ask if dim sum is still served at 5:30. If it never opens up, just walk in -- Chinatown on a Nov Tuesday is fine, and it's 4 min from your seats.\n• [DONE] Cursed Child — booked, Tue 17 Nov 7:00 PM, Palace Theatre, Dress Circle A19+A20, GBP 250\n• [DONE] Tower of London — booked, Wed 18 Nov (all-day ticket), order DVOMY243MYHM2\n• [DONE] Wed Nov 18 pre-theatre: BRASSERIE ZEDEL 18:00 -- booked 24 Oct, #DF2T5LTN3H3R (replaced Café Murano)\n• [DONE] Phantom of the Opera — booked, Wed 18 Nov 7:30 PM, Royal Circle A19+A20, GBP 370\n• Rules dinner Thu Nov 19 — London farewell (rules.co.uk, reserve ahead)\n• Chez Georges (first Paris dinner) Fri Nov 20 — reserve if you want a sit-down bistro (or Bouillon Chartier walk-in)\n• Le Grand Colbert dinner Sat Nov 21 — reserve (legrandcolbert.fr)\n• [DONE] Sainte-Chapelle Sun Nov 22 1:30 PM — booked 24 Oct, order ref 411040. (was: separate reminder starts Sep 25.\n• Notre-Dame free slot — reserve ~2 days ahead DURING the trip (app/site)\n• Chez Janou dinner Sun Nov 22 — reserve (chezjanou.com)\n• [DONE] Musee d'Orsay — booked, Tue 24 Nov 9:30 AM, transaction 200696183\n• La Bonne Franquette (last Paris dinner) Tue Nov 24 — reserve (or Bouillon Pigalle walk-in)\nMOST OF THESE WILL BE TOO FAR OUT UNTIL OCTOBER -- London/Paris restaurants typically open 30-60 days ahead. So work this list again in early October; nothing here is lost by waiting, and every one of them has a walk-in fallback.\n\nDONE so far: Book of Kells - Louvre - Tower of London - London Eye - Musee d'Orsay - Phantom - Cursed Child. ALL TIMED TICKETS AND BOTH SHOWS ARE BOOKED. What's left here is restaurants only.\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Book the Europe restaurant tables  (repeats until done)
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:resv-eiffel-20260923@harvey-europe-2026
-DTSTAMP:20260729T120000Z
-DTSTART:20260923T130000Z
-DTEND:20260923T133000Z
-SEQUENCE:2
-RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261007T130000Z
-SUMMARY:🎟️ Eiffel Tower summit tickets open (~60 days out) — book Sun Nov 22 AM
-DESCRIPTION:Eiffel summit tickets release ~60 days ahead & sell out. Book a MORNING lift-to-summit slot at toureiffel.paris for Sun Nov 22. Verify the exact release date/time.\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Book Eiffel summit Sun Nov 22 morning  (repeats until done)
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:resv-windingstair-20260914@harvey-europe-2026
-DTSTAMP:20260729T120000Z
-DTSTART:20260914T130000Z
-DTEND:20260914T133000Z
-SEQUENCE:2
-RRULE:FREQ=WEEKLY;UNTIL=20261026T130000Z
-SUMMARY:🎟️ Winding Stair booking window opens (Dublin, Sat Nov 14 dinner)
-DESCRIPTION:Reservations open ~2 months ahead. Book a weekend window seat over the Liffey — small & popular. winding-stair.com / OpenTable. If Sat Nov 14 isn't loaded yet, their window may be 30 days instead — check back ~Oct 15.\n\n--\nTHIS REMINDER REPEATS EVERY WEEK until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Book The Winding Stair (farewell dinner)  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
@@ -54,10 +24,10 @@ UID:resv-finalreview-20261106@harvey-europe-2026
 DTSTAMP:20260729T120000Z
 DTSTART:20261106T140000Z
 DTEND:20261106T143000Z
-SEQUENCE:2
+SEQUENCE:3
 RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261110T140000Z
 SUMMARY:🧭 Europe trip — 2-weeks-out final review
-DESCRIPTION:Playbook checklist: re-verify every venue's hours/closed-days/closures for our dates; confirm all reservations & timed tickets are booked + saved offline; swap weather averages for the live forecast; DOWNLOAD OFFLINE MAPS for Dublin, London and Paris in Google Maps -- phones are locked to T-Mobile so there is no travel eSIM, and offline maps are the single biggest data saver. Also turn ON WiFi Calling and turn OFF photo backup over cellular. Plan confirmed: Go5G Plus, ~15GB high-speed each (30GB between you), then unlimited at reduced speed. Nothing to buy in advance; top up in-app only if you somehow run out (~$35 for 15GB/10 days). (Travel insurance: DECLINED 6 Sep -- self-insuring, no need to revisit.) Since you're self-insured: call your health plan before you fly and ask exactly what it covers in Ireland/UK/France, and save the answer offline. Emergency number is 112 across all three (999 also works in UK and Ireland). Abroad you pay up front -- keep every receipt and itemised bill.\n\nNEW (Sept re-route): you now clear US customs at PHILADELPHIA on the way home (Nov 25), not Charlotte. You both have GLOBAL ENTRY, so no app needed - just confirm both Known Traveler Numbers are on the AA booking so PreCheck prints on the boarding passes. Also: the return lands Tampa 11:51 PM, the night before Thanksgiving - sort out parking or a pickup.\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
+DESCRIPTION:PARIS UNREST CHECK (added 24 Oct): after the 17 Oct riots Paris ran an 11pm-6am curfew at Place de la Republique + part of Les Halles (rue Rambuteau / rue Berger / bd de Sebastopol) and closed Chatelet, Les Halles and Republique metro stations from 10pm on protest weekends. Your hotel (123 bd de Sebastopol) is ~10 min walk NORTH of that zone. Check: (1) is any curfew still in force, and does it reach the hotel? (2) any strike/march dates for 20-25 Nov -- esp. SNCF/Eurostar on Fri 20 and Saturday 21 (Louvre was blockaded by students on 19 Oct); (3) US Embassy Paris alerts (fr.usembassy.gov) + STEP enrolment; (4) RATP closures for late dinners near Chatelet. None of this needs action now.\n\nPlaybook checklist: re-verify every venue's hours/closed-days/closures for our dates; confirm all reservations & timed tickets are booked + saved offline; swap weather averages for the live forecast; DOWNLOAD OFFLINE MAPS for Dublin, London and Paris in Google Maps -- phones are locked to T-Mobile so there is no travel eSIM, and offline maps are the single biggest data saver. Also turn ON WiFi Calling and turn OFF photo backup over cellular. Plan confirmed: Go5G Plus, ~15GB high-speed each (30GB between you), then unlimited at reduced speed. Nothing to buy in advance; top up in-app only if you somehow run out (~$35 for 15GB/10 days). (Travel insurance: DECLINED 6 Sep -- self-insuring, no need to revisit.) Since you're self-insured: call your health plan before you fly and ask exactly what it covers in Ireland/UK/France, and save the answer offline. Emergency number is 112 across all three (999 also works in UK and Ireland). Abroad you pay up front -- keep every receipt and itemised bill.\n\nNEW (Sept re-route): you now clear US customs at PHILADELPHIA on the way home (Nov 25), not Charlotte. You both have GLOBAL ENTRY, so no app needed - just confirm both Known Traveler Numbers are on the AA booking so PreCheck prints on the boarding passes. Also: the return lands Tampa 11:51 PM, the night before Thanksgiving - sort out parking or a pickup.\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've actually done this one, tell Claude and it gets removed from the feed for good.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Europe trip final review — verify openings & bookings  (repeats until done)
@@ -65,47 +35,17 @@ TRIGGER:PT0S
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:resv-westminster-20260920@harvey-europe-2026
-DTSTAMP:20260906T180000Z
-DTSTART:20260920T130000Z
-DTEND:20260920T133000Z
-SEQUENCE:0
-RRULE:FREQ=DAILY;INTERVAL=3;UNTIL=20261101T130000Z
-SUMMARY:🎟️ Westminster Abbey — are Nov dates loaded yet?
-DESCRIPTION:As of Sep 6 the Abbey's calendar only ran through Oct 31. Check westminster-abbey.org for a ~12:15 PM slot on MON 16 NOV, ~GBP 31 pp for two.\n\nIt's a working church and closes at short notice for services, so confirm Nov 16 is actually open when you book.\n\n--\nTHIS REMINDER REPEATS EVERY 3 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've booked it, tell Claude and it gets removed from the feed for good.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Westminster Abbey - check if Nov 16 is bookable  (repeats until done)
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:resv-saintechapelle-20260925@harvey-europe-2026
-DTSTAMP:20260906T180000Z
-DTSTART:20260925T130000Z
-DTEND:20260925T133000Z
-SEQUENCE:0
-RRULE:FREQ=DAILY;INTERVAL=3;UNTIL=20261108T130000Z
-SUMMARY:🎟️ Sainte-Chapelle — are Nov dates loaded yet?
-DESCRIPTION:As of Sep 6 Sainte-Chapelle's calendar only ran through Oct 31. Check sainte-chapelle.fr for a ~12:15 slot on SUN 22 NOV, ~EUR 13 pp for two.\n\nNotre-Dame is separate and free -- reserve that slot about 2 days ahead on its own app once you're in Paris, not now.\n\n--\nTHIS REMINDER REPEATS EVERY 3 DAYS until its deadline. Subscribed calendars are read-only, so iOS won't offer Snooze -- just dismiss it and it will come back. Once you've booked it, tell Claude and it gets removed from the feed for good.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sainte-Chapelle - check if Nov 22 is bookable  (repeats until done)
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:resv-ukEta-20260910@harvey-europe-2026
-DTSTAMP:20260906T190000Z
+DTSTAMP:20261024T170000Z
 DTSTART:20260910T220000Z
 DTEND:20260910T223000Z
-SEQUENCE:0
-RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261101T220000Z
-SUMMARY:🛂 UK ETA + add Global Entry numbers to the AA booking
-DESCRIPTION:BOTH OF YOU NEED THIS -- it is a boarding requirement, not a formality. Since 25 Feb 2026 US citizens must hold an approved UK Electronic Travel Authorisation before boarding a flight to the UK. You fly Dublin-London on BA on Sun 15 Nov.\n\nThe Common Travel Area exemption does NOT cover you: it applies to Irish citizens and lawful residents of Ireland, not Americans visiting. Airlines check documents before boarding even on Ireland-UK routes, so BA will look for it at Dublin.\n\nHOW: gov.uk/eta or the official UK ETA app. GBP 20 each (about USD 25), valid 2 years, usually approved in minutes. !! Apply ONLY through those two -- third-party sites charge a big markup for the identical thing.\n\nWHILE YOU HAVE BOTH PASSPORTS OUT, check two things:\n1. EXPIRY -- France needs them valid until at least 25 FEB 2027 (3 months past your 25 Nov departure).\n2. ISSUE DATE -- Schengen also requires the passport was ISSUED WITHIN THE LAST 10 YEARS, so issued after ~25 NOV 2016. An older passport that hasn't expired can still be refused. If either fails, renew NOW, not in October.\n\nALSO WHILE YOU'RE BOTH SAT DOWN: you both recently got GLOBAL ENTRY. Add both KNOWN TRAVELER NUMBERS to the AA reservation APNJVO (aa.com > your trip > passenger details, or call 800-433-7300). That puts TSA PRECHECK on your boarding passes for Tampa on 11 Nov and Philadelphia on 25 Nov. Global Entry also means you skip the main immigration hall at PHL on the way home -- the biggest time saver on a night when four bags have to be reclaimed and re-dropped. It does NOT help entering Ireland, the UK or France.\n\n(ETIAS for Europe is NOT required -- it has not launched and 2027 is now the likely date. Anyone selling you one is scamming you.)\n\n--\nTHIS REMINDER REPEATS EVERY 2 DAYS until done. Tell Claude once it's approved and it comes out of the feed.
+SEQUENCE:1
+RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261110T220000Z
+SUMMARY:🛂 Lenny's UK ETA (Aaron's done) + Global Entry numbers on the AA booking
+DESCRIPTION:AARON'S UK ETA IS APPROVED (24 Oct). LENNY'S IS STILL NEEDED before boarding BA Dublin-London on Sun 15 Nov -- a boarding requirement, not a formality. The Common Travel Area exemption does NOT cover Americans visiting Ireland.\n\nLENNY CAN DO IT WITHOUT AARON:\n- Easiest: Lenny installs the 'UK ETA' app (developer: UK Home Office) on their own phone and applies -- scans the passport + face, about 10 minutes.\n- Or Aaron applies on the website (apply-for-an-eta.homeoffice.gov.uk, via gov.uk/eta) using a photo of Lenny's passport photo page and a face photo Lenny sends.\nGBP 20, decision usually within a day but can take up to 3 working days -- so do it by ~10 Nov at the latest.\n!! Only gov.uk / homeoffice.gov.uk or the official app. uk.eta.travel and similar are third-party resellers.\n\nWHILE THE PASSPORTS ARE OUT, check both:\n1. EXPIRY after 25 FEB 2027.\n2. ISSUE DATE after ~25 NOV 2016 (Schengen 10-year rule).\n\nALSO: add both Global Entry KNOWN TRAVELER NUMBERS to AA reservation APNJVO (aa.com > your trip > passenger details, or 800-433-7300) so TSA PreCheck prints on the boarding passes.\n\n(ETIAS is NOT required -- not launched.)\n\n--\nREPEATS EVERY 2 DAYS until done. Tell Claude once Lenny's is approved and it comes out of the feed.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:UK ETA for both + add Global Entry KTNs to AA  (repeats until done)
+DESCRIPTION:Lenny's UK ETA + add Global Entry KTNs to AA  (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
