@@ -39,13 +39,13 @@ UID:resv-ukEta-20260910@harvey-europe-2026
 DTSTAMP:20261024T170000Z
 DTSTART:20260910T220000Z
 DTEND:20260910T223000Z
-SEQUENCE:2
+SEQUENCE:3
 RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261110T220000Z
-SUMMARY:🛂 Lenny: UK ETA + add Lenny's Known Traveler Number to AA (Aaron's both done)
-DESCRIPTION:AARON'S UK ETA IS APPROVED (24 Oct). LENNY'S IS STILL NEEDED before boarding BA Dublin-London on Sun 15 Nov -- a boarding requirement, not a formality. The Common Travel Area exemption does NOT cover Americans visiting Ireland.\n\nLENNY CAN DO IT WITHOUT AARON:\n- Easiest: Lenny installs the 'UK ETA' app (developer: UK Home Office) on their own phone and applies -- scans the passport + face, about 10 minutes.\n- Or Aaron applies on the website (apply-for-an-eta.homeoffice.gov.uk, via gov.uk/eta) using a photo of Lenny's passport photo page and a face photo Lenny sends.\nGBP 20, decision usually within a day but can take up to 3 working days -- so do it by ~10 Nov at the latest.\n!! Only gov.uk / homeoffice.gov.uk or the official app. uk.eta.travel and similar are third-party resellers.\n\nWHILE THE PASSPORTS ARE OUT, check both:\n1. EXPIRY after 25 FEB 2027.\n2. ISSUE DATE after ~25 NOV 2016 (Schengen 10-year rule).\n\nALSO: add LENNY'S Global Entry KNOWN TRAVELER NUMBER (PASSID -- in Lenny's own email from cbp.dhs.gov, on the back of the GE card, or at ttp.dhs.gov) to AA reservation APNJVO. Aaron's is already on (added 24 Oct). aa.com > Manage trips > APNJVO > scroll to Travelers > Edit, or 800-433-7300. Check both boarding passes say TSA PRE at check-in.\n\n(ETIAS is NOT required -- not launched.)\n\n--\nREPEATS EVERY 2 DAYS until done. Tell Claude once Lenny's is approved and it comes out of the feed.
+SUMMARY:🛂 Lenny: confirm her UK ETA 'approved' email arrived
+DESCRIPTION:Lenny applied for her UK ETA in the app (by 1 Nov). Just confirm her 'ETA application approved' email arrived in HER inbox (usually within a day, max 3 working days). BA checks it at Dublin on Sun 15 Nov. Both Known Traveler Numbers are now on AA booking APNJVO. Once Lenny's approval is in, tell Claude and this reminder comes out of the feed.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lenny's UK ETA + Lenny's KTN on AA booking  (repeats until done)
+DESCRIPTION:Lenny: confirm UK ETA approval email (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
