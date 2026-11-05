@@ -49,19 +49,4 @@ DESCRIPTION:Lenny: confirm UK ETA approval email (repeats until done)
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-UID:resv-kells-rebook-20261104@harvey-europe-2026
-DTSTAMP:20261104T170000Z
-DTSTART:20261106T010000Z
-DTEND:20261106T013000Z
-SEQUENCE:0
-RRULE:FREQ=DAILY;UNTIL=20261109T010000Z
-SUMMARY:📚 Book of Kells: did Trinity reply to the rebook email?
-DESCRIPTION:Thu 12 Nov is CLOSED (strike). You emailed bookofkells@tcd.ie asking to move order 446187667 to Fri 13 ~2:00 PM (or Fri ~3:00 / Sat 14 ~2:30). Check for new tickets and tell Claude. Deadline: Mon 9 Nov 12:00 Irish time (7 AM ET) -- no reply means an automatic full refund.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Book of Kells: check for Trinity's rebooking reply
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
 END:VCALENDAR
