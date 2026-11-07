@@ -34,19 +34,4 @@ DESCRIPTION:Europe trip final review — verify openings & bookings  (repeats un
 TRIGGER:PT0S
 END:VALARM
 END:VEVENT
-BEGIN:VEVENT
-UID:resv-ukEta-20260910@harvey-europe-2026
-DTSTAMP:20261024T170000Z
-DTSTART:20260910T220000Z
-DTEND:20260910T223000Z
-SEQUENCE:3
-RRULE:FREQ=DAILY;INTERVAL=2;UNTIL=20261110T220000Z
-SUMMARY:🛂 Lenny: confirm her UK ETA 'approved' email arrived
-DESCRIPTION:Lenny applied for her UK ETA in the app (by 1 Nov). Just confirm her 'ETA application approved' email arrived in HER inbox (usually within a day, max 3 working days). BA checks it at Dublin on Sun 15 Nov. Both Known Traveler Numbers are now on AA booking APNJVO. Once Lenny's approval is in, tell Claude and this reminder comes out of the feed.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Lenny: confirm UK ETA approval email (repeats until done)
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
 END:VCALENDAR
